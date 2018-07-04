@@ -1,0 +1,39 @@
+h1{
+    font-family: 'Wendy One', sans-serif;
+    text-align: center;
+}
+
+.art{
+    margin: auto
+}
+td{
+    background-color: black;
+    height: 400px;
+    width: 150px;
+    border: 6px solid white
+}
+
+#first{
+    background-color: #247ba0
+}
+
+#second{
+    background-color: #70c1b3
+}
+
+#third{
+   background-color:  #b2dbbf
+}
+
+#third{
+    background-color: #f3ffbd
+}
+
+#fourth{
+    background-color: #43ffbd
+
+}
+
+#fifth{
+    background-color: #ff1654
+}
