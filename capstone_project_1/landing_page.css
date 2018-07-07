@@ -6,9 +6,20 @@ table{
     height: 100%;
     width: 100%;
     font-family: 'Ubuntu', sans-serif;
-   
-}
-tr{
-    
 }
 
+.button {
+    background-color: #ffbb3d;
+    height:70px ;
+    width: 170px;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 4px 2px;
+    border-radius: 20px;
+    border-color: white 2px;
+    font-family: 'Ubuntu', sans-serif;
+}
