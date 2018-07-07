@@ -3,6 +3,7 @@ table{
     background-color: #112947;
     color: white;
     border: 55px solid aqua;
+    border-top-color: #112947; 
     height: 100%;
     width: 100%;
     font-family: 'Ubuntu', sans-serif;
