@@ -8,6 +8,11 @@ table{
     font-family: 'Ubuntu', sans-serif;
 }
 
+.field{
+    width: 250px;
+    height: 40px;
+}
+
 .button {
     background-color: #ffbb3d;
     height:70px ;
